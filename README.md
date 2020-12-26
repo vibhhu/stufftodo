@@ -1,4 +1,4 @@
-!//[#stufftodo.tech](images/stufftodo.png?raw=true "stufftodo.tech")
+
 
 Find all of the latest activities and things to do at stufftodo.tech.
 From sports to books to video games, you won't miss a thing. The website
