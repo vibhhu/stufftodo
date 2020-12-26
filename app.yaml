@@ -1,0 +1,6 @@
+runtime: python
+env: flex
+automatic_scaling:
+    min_num_instances: 1
+    max_num_instances: 2
+entrypoint: gunicorn -b 0.0.0.0:8080 flask_api.app:app
